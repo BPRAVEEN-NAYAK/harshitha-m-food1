@@ -1,1 +1,2 @@
-# harshitha-m-food1
+# Restaurant-Website-in-HTML-and-CSS
+Restaurant Website in HTML and CSS
